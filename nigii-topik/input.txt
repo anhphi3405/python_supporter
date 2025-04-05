@@ -1,0 +1,69 @@
+correct_option: 2
+explanation: "She là ngôi thứ 3 số ít, thì hiện tại đơn → động từ phải thêm -s."
+options: ["go", "goes", "gone", "going"]
+question_text: "She usually _____ to school by bike."
+question_audio: ""
+question_img: []
+
+correct_option: 3
+explanation: "Hành động đang diễn ra tại một thời điểm trong quá khứ → thì quá khứ tiếp diễn: was/were + V-ing."
+options: ["have", "had", "were having", "are having"]
+question_text: "My parents _____ dinner when I got home."
+question_audio: ""
+question_img: []
+
+correct_option: 2
+explanation: "Câu điều kiện loại 1 → mệnh đề điều kiện dùng hiện tại đơn."
+options: ["rain", "rains", "rained", "will rain"]
+question_text: "If it _____ tomorrow, we will cancel the picnic."
+question_audio: ""
+question_img: []
+
+correct_option: 4
+explanation: "'Look forward to' luôn đi với V-ing."
+options: ["see", "to see", "seen", "seeing"]
+question_text: "She is looking forward to _____ you again soon."
+question_audio: ""
+question_img: []
+
+correct_option: 2
+explanation: "So sánh hơn của tính từ ngắn 'good' là 'better'."
+options: ["more good", "better", "the best", "gooder"]
+question_text: "This book is _____ than the one I read last week."
+question_audio: ""
+question_img: []
+
+correct_option: 1
+explanation: "Hiện tại hoàn thành → dùng 'since' cho mốc thời gian."
+options: ["since", "for", "from", "during"]
+question_text: "We haven’t seen them _____ last year."
+question_audio: ""
+question_img: []
+
+correct_option: 2
+explanation: "Câu gián tiếp → lùi thì từ 'are' thành 'was'."
+options: ["am", "was", "were", "be"]
+question_text: "He asked me where I _____ from."
+question_audio: ""
+question_img: []
+
+correct_option: 2
+explanation: "'Good at' là cụm cố định (giỏi về cái gì)."
+options: ["on", "at", "in", "about"]
+question_text: "I’m not very good _____ drawing."
+question_audio: ""
+question_img: []
+
+correct_option: 1
+explanation: "Thể hiện sự tương phản → dùng 'although'."
+options: ["although", "because", "so", "if"]
+question_text: "We went to the beach _____ it was raining."
+question_audio: ""
+question_img: []
+
+correct_option: 4
+explanation: "Câu hỏi gián tiếp → không đảo trợ động từ."
+options: ["where is the station", "where the station", "where is", "where the station is"]
+question_text: "Could you tell me _____ the station is?"
+question_audio: ""
+question_img: []
